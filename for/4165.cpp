@@ -13,7 +13,7 @@ using namespace std;  //使用命名空间
             cout<<i<<" ";
         }
         
-    }
+    } 
     
 	 	
  	return 0 ;  //程序结束
