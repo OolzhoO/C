@@ -4,15 +4,16 @@
 #include<iomanip>
 using namespace std;  //使用命名空间
  int main() {
-    int k, x, x1, x5, x10;
-    cin>>k>>x;
+    int k, x, x1=0, x5=0, x10=0;
+    cin>>k;
     for (int i = 1; i <= k; i++)
     {
+        cin>>x;
         switch (x)
 {
         case 1:;
             x1++;
-    break;
+            break;
         case 5:
             x5++;
             break;
