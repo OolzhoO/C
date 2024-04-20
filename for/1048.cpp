@@ -3,7 +3,7 @@
 #include<cmath>
 #include<iomanip>
 using namespace std;  //使用命名空间
- int main() {
+int main() {
     int k, x, x1=0, x5=0, x10=0;
     cin>>k;
     for (int i = 1; i <= k; i++)
