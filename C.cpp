@@ -2,7 +2,7 @@
 #include<cmath>
 #include<iomanip>
 using namespace std;  //使用命名空间
- int main() {
+int main() {
  	char n;
  	int x;
  	cin>>n>>x;

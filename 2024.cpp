@@ -2,7 +2,7 @@
 #include<cmath>
 #include<iomanip>
 using namespace std;  //使用命名空间
- int main() {
+int main() {
  	int x;
     cin>>x;
  if (x%2==0 && (x>10&&x<66))

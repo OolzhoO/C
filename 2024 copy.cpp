@@ -2,7 +2,7 @@
 #include<cmath>
 #include<iomanip>
 using namespace std;  //使用命名空间
- int main() {
+int main() {
  	int n;
     cin>>n;
     if ((100>=n)&&(n>=90))
