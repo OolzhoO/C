@@ -12,7 +12,7 @@ for (int i = 0; i < 10; i++){
     cin>>temp;
     x+=A[i]*temp;
 }
-
+cout<<fixed<<setprecision(1); //保留一位小数
 cout<<x;
 
  	return 0 ;  //程序结束
