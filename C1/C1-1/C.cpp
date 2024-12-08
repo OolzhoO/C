@@ -35,7 +35,11 @@ int main() {
             if (a[i][j]==b[i][j])
             {
                 x+=1;
+<<<<<<< HEAD
             }
+=======
+            }   
+>>>>>>> d4c6a6d (C1)
         }
         cout<<endl;
     }
