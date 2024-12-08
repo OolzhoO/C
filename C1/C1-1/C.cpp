@@ -35,7 +35,7 @@ int main() {
             if (a[i][j]==b[i][j])
             {
                 x+=1;
-            }   
+            }
         }
         cout<<endl;
     }
